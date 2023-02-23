@@ -1,4 +1,4 @@
-# Machine learing for predict rents
+# Machine learning to predict rents
 Performs an analysis with machine learning on a database of properties rents in Brazil.
 
 
